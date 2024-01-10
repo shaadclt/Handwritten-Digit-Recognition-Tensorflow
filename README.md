@@ -26,9 +26,9 @@ The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten
 ## Model Architecture
 The neural network consists of:
 
-Input layer: Flatten layer to convert the 28x28 images into a flat vector.
-Hidden layer: Dense layer with ReLU activation function and dropout for regularization.
-Output layer: Dense layer with softmax activation for digit classification.
+- Input layer: Flatten layer to convert the 28x28 images into a flat vector.
+- Hidden layer: Dense layer with ReLU activation function and dropout for regularization.
+- Output layer: Dense layer with softmax activation for digit classification.
 
 
 ## Training the Model
